@@ -1,0 +1,10 @@
+
+$ echo "hi" > notes.txt 
+$ git statuts 
+
+
+
+$ git add notes.txt 
+$ git commit -m "Add notes"
+[main dcb1664] Add notes
+1 file changed, 1 new 
